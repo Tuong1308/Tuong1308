@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **HTML, CSS, and Figma**
-- 💬 Ask me about **JavaScript, Python, SQL**
 - 📫 How to reach me: **tantuongdo0206@email.com**
 - ⚡ Fun fact: I love solving algorithm problems and building useful apps!
   
