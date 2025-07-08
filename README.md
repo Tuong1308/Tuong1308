@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **HTML, CSS, and Figma**
 - 📫 How to reach me: **tantuongdo0206@email.com**
-- ⚡ Fun fact: I love solving algorithm problems and building useful apps!
+- ⚡ Fun fact: I love listening to music, playing game and building useful apps!
   
 
 ### 🛠️ Languages and Tools:
