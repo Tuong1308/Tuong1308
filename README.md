@@ -7,10 +7,10 @@
 - 📫 How to reach me: **tantuongdo0206@email.com**
 - ⚡ Fun fact: I love solving algorithm problems and building useful apps!
   
-<p align="center">
+
 ### 🛠️ Languages and Tools:
 [![Python, JavaScript, C++, SQL Server](https://skillicons.dev/icons?i=python,js,cpp,mssql)](https://skillicons.dev)
-</p>
+
 
 ### 📈 GitHub Stats:
 <p align="center">
