@@ -27,4 +27,7 @@
   <a href="https://www.facebook.com/tan.tuong.177646" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/_dttuowng/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
+</a>
 </p>
