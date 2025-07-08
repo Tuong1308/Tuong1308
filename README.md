@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tuong Do</h1>
+<h1 align="center">Hi 👋, I'm Đỗ Tấn Tường</h1>
 <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
-- 🔭 I’m currently working on **Machine Learning and Web Development**
 - 🌱 I’m currently learning **ReactJS, NodeJS, and Python**
 - 💬 Ask me about **JavaScript, Python, SQL**
-- 📫 How to reach me: **tuongdo@email.com**
+- 📫 How to reach me: **tantuongdo0206@email.com**
 - ⚡ Fun fact: I love solving algorithm problems and building useful apps!
 
 ### 🛠️ Languages and Tools:
@@ -23,10 +22,7 @@
 
 ### 🔗 Connect with me:
 <p>
-  <a href="https://linkedin.com/in/tuongdo" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/tuongdo" target="blank">
+  <a href="https://www.facebook.com/tan.tuong.177646" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
 </p>
