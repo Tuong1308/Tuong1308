@@ -11,7 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### 📈 GitHub Stats:
