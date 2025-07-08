@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đỗ Tấn Tường</h1>
-<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
+<h3 align="center">IT student from Vietnam 🇻🇳</h3>
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **HTML, CSS, and Figma**
