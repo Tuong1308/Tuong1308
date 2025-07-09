@@ -8,7 +8,7 @@
   
 
 ### 🛠️ Languages and Tools:
-[![Python, JavaScript, C++, SQL Server](https://skillicons.dev/icons?i=python,js,cpp,mssql)](https://skillicons.dev)
+[![Python, JavaScript, C++, SQL Server, HTML, CSS](https://skillicons.dev/icons?i=python,js,cpp,mssql,html,css)](https://skillicons.dev)
 
 
 ### 📈 GitHub Stats:
