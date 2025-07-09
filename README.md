@@ -8,7 +8,7 @@
   
 
 ### 🛠️ Languages and Tools:
-[![Python, JavaScript, C++, HTML, CSS, Vscode, Visualstudio](https://skillicons.dev/icons?i=python,js,cpp,mssql,html,css,vscode, visualstudio	)](https://skillicons.dev)
+[![Python, JavaScript, C++, HTML, CSS, Vscode, Visualstudio](https://skillicons.dev/icons?i=python,js,cpp,mssql,html,css,vscode,visualstudio	)](https://skillicons.dev)
 
 
 ### 📈 GitHub Stats:
