@@ -6,7 +6,6 @@
 - 📫 How to reach me: **tantuongdo0206@email.com**
 - ⚡ Fun fact: I love listening to music, playing game and building useful apps!
   
-
 ### 🛠️ Languages and Tools:
 [![Python, JavaScript, C++, HTML, CSS, Vscode, Visualstudio](https://skillicons.dev/icons?i=python,js,cpp,html,css,vscode,visualstudio	)](https://skillicons.dev)
 
